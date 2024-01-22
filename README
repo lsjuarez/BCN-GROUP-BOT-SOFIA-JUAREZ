@@ -1,0 +1,27 @@
+# Country Information Bot
+
+## Overview
+
+This bot provides information about countries. You can ask for details about a specific country, and the bot will respond with key information such as the country's name, capital, currency, latitude, and longitude.
+
+## Usage
+
+1. The bot presents a list of countries.
+2. Enter the name of the country you want information about.
+3. The bot will respond with the following details:
+
+   - Country: [Country Name]
+   - Capital: [Capital City]
+   - Currency: [Currency Code]
+   - Latitude: [Latitude]
+   - Longitude: [Longitude]
+
+## Example
+
+This is the information you searched:
+
+    - Country: Anguilla
+    - Capital: The Valley
+    - Longitude: -63.1667
+    - Latitude: 18.25
+    - Currency: XCD

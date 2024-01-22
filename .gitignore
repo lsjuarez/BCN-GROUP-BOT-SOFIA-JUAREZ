@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+*.js
+*.map
+*.js.map
+*.d.ts
+
+# Dependency directories
+/dist/
+/.vscode/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode configuration
+.vscode/
